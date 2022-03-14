@@ -25,7 +25,7 @@ Chat box and NSFW tests
 ![Admin View + Analytics](https://github.com/am-a-man/SIH-SOC-app-root/blob/main/root/docs/screenshots/ad_view.jpeg)<br>
 Admin View + Analytics
 
-![MAC address retrieval and hashing](https://github.com/am-a-man/SIH-SOC-app-root/blob/main/root/docs/screenshots/hashing.jpeg)<br>
+![MAC address retrieval and hashing](https://github.com/am-a-man/SIH-SOC-app-root/blob/main/root/docs/screenshots/hashing.png)<br>
 MAC address retrieval and hashing
 
 
