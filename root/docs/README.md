@@ -43,8 +43,8 @@ Admin Page
 
 - Aman Kumar [@am-a-man](https://github.com/am-a-man) <br>
 - Dev Pant [@sigsev-dev](https://github.com/sigsev-dev) <br>
-- Rishav  [@am-a-man](https://github.com/am-a-man) <br>
-- Prasoon [@am-a-man](https://github.com/am-a-man)<br>
-- Amardeep Saha [@am-a-man](https://github.com/am-a-man)<br>
+- Rishav  [@RishavMz](https://github.com/RishavMz) <br>
+- Prasoon [@it5prasoon](https://github.com/it5prasoon)<br>
+- Amardeep Saha [@alpha-coder-13](https://github.com/alpha-coder-13)<br>
 - Ekta [@am-a-man](https://github.com/am-a-man)<br>
 
