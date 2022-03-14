@@ -35,9 +35,7 @@ MAC address retrieval and hashing
 - clone the repo
 - open terminal
 - change directory to `./src/`
-- go to backend folder and run `npm install` in terminal
-- go to frontend folder and run `npm install` in terminal
-- go to frontend folder and run `npm start`
+- go to backend and front end folders and run `npm install ` and `npm start`
 
 ## Contributers
 
