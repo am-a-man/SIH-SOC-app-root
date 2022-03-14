@@ -22,7 +22,7 @@ All the Video demonstrations of the application are uploaded here:
 ![Chat box and NSFW tests](https://github.com/am-a-man/SIH-SOC-app-root/blob/main/root/docs/screenshots/NSFW_in_text.jpeg)<br>
 Chat box and NSFW tests
 
-![Admin View + Analytics](./screenshots/AdminView.png "Admin View + Analytics")<br>
+![Admin View + Analytics](https://github.com/am-a-man/SIH-SOC-app-root/blob/main/root/docs/screenshots/ad_view.jpeg)<br>
 Admin View + Analytics
 
 ![MAC address retrieval and hashing](./screenshots/Mac.png "MAC address retrieval and hashing")<br>
@@ -46,5 +46,5 @@ MAC address retrieval and hashing
 - Rishav Mazumdar [@RishavMz](https://github.com/RishavMz) <br>
 - Prasoon Kumar[@it5prasoon](https://github.com/it5prasoon)<br>
 - Amardeep Saha [@alpha-coder13](https://github.com/alpha-coder13)<br>
-- Ekta [@Ekta_18215](https://github.com/Ekta_18215)<br>
+- Ekta [@Ekta18215](https://github.com/Ekta18215)<br>
 
