@@ -46,5 +46,5 @@ Admin Page
 - Rishav  [@RishavMz](https://github.com/RishavMz) <br>
 - Prasoon [@it5prasoon](https://github.com/it5prasoon)<br>
 - Amardeep Saha [@alpha-coder13](https://github.com/alpha-coder13)<br>
-- Ekta [@am-a-man](https://github.com/am-a-man)<br>
+- Ekta <br>
 
