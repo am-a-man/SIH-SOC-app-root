@@ -1,6 +1,6 @@
 # SOC-App
 
-SIH 2022 Grand finale
+SIH 2022 
 
 The video conferencing market is a multi-billion dollar industry that has been meeting with constant demand of market increase with continuous exposure to needs of digitizing in the online world, which has been recently struck to increase exponentially with the pandemic in the past years. 
 
@@ -41,5 +41,10 @@ Admin Page
 
 ## Contributers
 
-- Aman Kumar [@am-a-man](https://github.com/am-a-man)
+- Aman Kumar [@am-a-man](https://github.com/am-a-man) <br>
+- Dev Pant [@sigsev-dev](https://github.com/sigsev-dev) <br>
+- Rishav  [@am-a-man](https://github.com/am-a-man) <br>
+- Prasoon [@am-a-man](https://github.com/am-a-man)<br>
+- Amardeep Saha [@am-a-man](https://github.com/am-a-man)<br>
+- Ekta [@am-a-man](https://github.com/am-a-man)<br>
 
