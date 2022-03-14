@@ -1,0 +1,28 @@
+body{
+    overflow:hidden;
+    margin:0px;
+}
+
+div#login_header{
+    width: 100%;
+    float: left;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 60px;
+    color:rgb(35, 146, 190);
+    text-shadow: 2px 1px 2px rgb(24, 102, 133);
+    word-spacing: 1px;
+    font-family:monospace;
+    padding-top: 45px;
+}
+
+div#bd1{
+    width:31%;
+    height:100px;
+    float: left;
+}
+div#bd2{padding-top: 13px;
+    
+    width:32%;
+    float: left;
+}

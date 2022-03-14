@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+    <title>Document</title>
+</head>
+<body >
+    <div id="login_header"> Login</div>
+        <div id="bd1"></div>
+        <div id="bd2">
+            <form>
+                <label for="Username" id="Usr_Label" style="word-spacing: 2px; font-size: large;">Username</label><br>
+                <br>
+                <input type="text" id="Username" name="Username" value=" "><br>
+                <br>
+                <br>
+                <br>
+                <input type="submit" value="Login">
+            </form>
+        </div>
+        <div id="bd3"></div>    
+    <div id="login_footer"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.26.1/axios.min.js"></script>
+    <script>
+     window.addEventListener('load',()=>{
+        const form= document.querySelector('form');
+          form.addEventListener('submit',(err)=>{
+            err.preventDefault();
+              var Data=new FormData(form);
+              axios.post("http://localhost:10001/Username",{"username":Data.get("Username")}).then((data)=>{
+                         console.log(data.data);
+              }).catch((err)=>{throw err});
+          })
+     })
+    </script>
+</body>
+</html>
