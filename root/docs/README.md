@@ -11,23 +11,23 @@ There is an immediate need for change in organizational structure for internet c
 
 In the initial stage we have developed a prototype with dummy organization with a dummy database to display the potential. We have integrated a temporary chat app in the frontend with user sign up/ sign in options to demonstrate the working of the backend models. These include fetching the Ip address and MAC address of the device trying to login . Further we have integrated our NSFW neural network text moderation backend with the chat app to show the filtering feature. We have integrated the database with the help of MongoDB and the MAC address is passed as a post request to the server through multiple hashing to this database for identifying authorized logins. Also there is an admin view developed in a simple react component to provide advanced analytics/details we can know using the translational relationship between the components we store and other details. We refrained from developing a full edged video conferencing app integrated with the whole pipeline together and full functionalities, as we thought it would be better to discuss with the org's mentors if we should develop an independent full-stack solution or an easily integrable API. We have mentioned future scope in out project proposal which we plan to finish once we get selected for the Grand Finale.
 
+## Video tutorials
+
+All the Video demonstrations of the application are uploaded here:
+
+[Click Here to watch demo videos](https://drive.google.com/drive/folders/1U09ytC4iee51UE26O3AsT3LY5Wk4pVL9?usp=sharing)
 
 ## Screenshots
 
-![Home Page](./screenshots/vpnCheck.png "VPN check")<br>
-VPN checking
+![Chat box and NSFW tests](./screenshots/NSFW_in_text.png "VPN check")<br>
+Chat box and NSFW tests
 
-![Home Page](./screenshots/chatApp.png "Chat app")<br>
-Chat app
+![Admin View + Analytics](./screenshots/AdminView.png "Admin View + Analytics")<br>
+Admin View + Analytics
 
-![Batch Processing Page](./screenshots/nsfw.png "NSFW")<br>
-NSFW tagging
+![MAC address retrieval and hashing](./screenshots/Mac.png "MAC address retrieval and hashing")<br>
+MAC address retrieval and hashing
 
-![Analytics Page ](./screenshots/adminPage.png "Admin Page")<br>
-Admin Page
-
-![Whois Page](./screenshots/loginPage.png "Login Page")
-<br>Login Page
 
 
 ## Steps to run
