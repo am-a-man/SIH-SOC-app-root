@@ -45,6 +45,6 @@ Admin Page
 - Dev Pant [@sigsev-dev](https://github.com/sigsev-dev) <br>
 - Rishav  [@RishavMz](https://github.com/RishavMz) <br>
 - Prasoon [@it5prasoon](https://github.com/it5prasoon)<br>
-- Amardeep Saha [@alpha-coder-13](https://github.com/alpha-coder-13)<br>
+- Amardeep Saha [@alpha-coder13](https://github.com/alpha-coder13)<br>
 - Ekta [@am-a-man](https://github.com/am-a-man)<br>
 
